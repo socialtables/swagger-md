@@ -1,5 +1,5 @@
 {
-  "name": "swagger-md",
+  "name": "@socialtables/swagger-md",
   "description": "Converts Swagger API spec to Markdown file",
   "main": "dist/index.js",
   "files": [
@@ -49,7 +49,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Springworks/swagger-md.git"
+    "url": "https://github.com/socialtables/swagger-md.git"
   },
   "keywords": [
     "swagger",
@@ -57,10 +57,10 @@
     "converter",
     "api"
   ],
-  "author": "Springworks (http://springworks.se)",
+  "author": "Springworks (http://springworks.se), Social Tables",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Springworks/swagger-md/issues"
+    "url": "https://github.com/socialtables/swagger-md/issues"
   },
-  "homepage": "https://github.com/Springworks/swagger-md#readme"
+  "homepage": "https://github.com/socialtables/swagger-md#readme"
 }
